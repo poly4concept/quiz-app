@@ -1,0 +1,16 @@
+.loading{
+    width: 50%;
+    /* height: 40vh; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.loading h4{
+    font-size: 1rem;
+    margin-bottom: -1.1rem;
+    z-index: 2;
+    color: white;
+}
+.loading img{
+    height: 15rem;
+}
