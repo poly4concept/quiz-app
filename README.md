@@ -1,5 +1,7 @@
 # A quiz app build with  [Typescript](https://www.typescriptlang.org/).
 Check it [live here](https://poly4-quiz.netlify.app/)
+
+
 User can 
 - choose option and get instant feedback of correct and wrong answer
 - progress bar to show the progress of the quiz
